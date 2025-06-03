@@ -1,9 +1,9 @@
 # Year-Progress-Calendar
 Allows generating .ics file for events about percentage of year finished 
 
-Year Progress Calculator
+**Year Progress Calculator**
 
-For the year_progress.cpp file
+# For the year_progress.cpp file
    1. Change the var current_year to the current year
    2. If it is a leap year, change the number of days in February in the var months[12]
    3. If you want to rename the calendar events, replace "% year gone" in all places with desired phrases
