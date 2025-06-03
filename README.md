@@ -4,7 +4,7 @@ Allows generating .ics file for events about percentage of year finished
 **Year Progress Calculator**
 
 
-Adivce: Before following the workflow below, try it by setting the var end_percent = 6 {percentage of year finished} to understand the whole workflow and import the entires into your calendar. The reason is if you make a mistake and import incorrect entries, they will have to be deleted manually one by one which is very cumbersome. 
+Adivce: Before following the workflow below, try it by setting the var end_percent = 6 {percentage of year finished} to understand the whole workflow and import the entires into your calendar. The reason is if you make a mistake and import incorrect entries, they will have to be deleted manually one by one which is very cumbersome for 100 entries. 
 
 # For the year_progress.cpp file
    1. Change the var current_year to the current year
